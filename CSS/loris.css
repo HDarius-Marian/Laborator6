@@ -1,0 +1,31 @@
+
+.title{
+    padding-left:40%;
+}
+
+table, th, td {
+    border:2px solid rgb(0, 0, 0);
+}
+
+body{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.section1{
+    background-color: rgb(255, 255, 255);
+    display:block;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+
+.section2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 5px solid green;
+}
+
+ul, li{
+    list-style-type: none;
+    font-size:20px;
+}

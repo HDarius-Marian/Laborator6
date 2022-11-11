@@ -1,0 +1,29 @@
+
+.title{
+    padding-left:40%;
+}
+
+table, th, td {
+    border:2px solid rgb(255, 255, 255);
+    margin-top:2%;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 35%;
+    opacity: 100%;
+    margin-top:5%;
+}
+
+.section1{
+    background-color: rgb(255, 255, 255);
+    display: inline-flex;
+    color: black;
+    margin-left:40%;
+}
